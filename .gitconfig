@@ -1,0 +1,8 @@
+[user]
+	signingkey = FAAAA39893DDEF34
+	email = mjwtownson@gmail.com
+	name = matthew-townson
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = main
